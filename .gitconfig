@@ -1,0 +1,7 @@
+[user]
+	name = Lee Bernick
+	email = lee.a.bernick@gmail.com
+[init]
+	defaultBranch = main
+[core]
+	excludesfile = /Users/leebernick/.gitignore
